@@ -82,7 +82,7 @@ function fetch() {
 }
 
 function clickHere() {
-	claimAchievement('clickedClickHere');
+	//claimAchievement('clickedClickHere');
 	fetch();
 }
 
